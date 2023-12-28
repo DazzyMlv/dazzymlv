@@ -1,6 +1,6 @@
 # Hi there, I'm MALVIN NDIP (DazzyMlv) 👋
 
-<img src="https://nawazalamgir.com/wp-content/uploads/2020/05/Comp-1_1.gif" width="100%" height="10vh">
+<img src="https://github.com/DazzyMlv/dazzymlv/blob/feature/init/static/O4NR.gif?raw=true" width="100%">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
