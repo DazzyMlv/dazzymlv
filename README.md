@@ -44,15 +44,32 @@ Bio:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Paradigms
-![Imperative](https://img.shields.io/badge/Imperative-8B0000?style=for-the-badge)
+
+
+
+
+### Paradigms
+![Imperative](https://img.shields.io/badge/Imperative-8B0000?style=for-the-badge) 
 ![Object-Oriented](https://img.shields.io/badge/Object--Oriented-000000?style=for-the-badge) 
 ![Functional](https://img.shields.io/badge/Functional-00BFFF?style=for-the-badge) 
 ![Procedural](https://img.shields.io/badge/Procedural-8B4513?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-008C45?style=for-the-badge) 
 ![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge) 
 ![Concurrent Programming](https://img.shields.io/badge/Concurrent_Programming-1E90FF?style=for-the-badge) 
-![REST](https://img.shields.io/badge/REST-009688?style=for-the-badge) 
 ![Parallel Programming](https://img.shields.io/badge/Parallel_Programming-FFD700?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-008C45?style=for-the-badge) 
+![DevOps](https://img.shields.io/badge/DevOps-47A248?style=for-the-badge&logo=devop&logoColor=white) 
+![DevSecOps](https://img.shields.io/badge/DevSecOps-FFD700?style=for-the-badge) 
+![Microservices](https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge) 
+![Microservices Architecture](https://img.shields.io/badge/Microservices_Architecture-FFD700?style=for-the-badge) 
+![Data Science](https://img.shields.io/badge/Data_Science-795548?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-4CAF50?style=for-the-badge) 
+![REST](https://img.shields.io/badge/REST-009688?style=for-the-badge) 
+![Behavior-driven Development (BDD)](https://img.shields.io/badge/BDD-FF4081?style=for-the-badge) 
+![Test-driven Development (TDD)](https://img.shields.io/badge/TDD-4CAF50?style=for-the-badge) 
+![Mobile Development](https://img.shields.io/badge/Mobile_Development-009688?style=for-the-badge) 
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge) 
+![ITIL](https://img.shields.io/badge/ITIL-85C1E9?style=for-the-badge)
+
 
 ### Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
