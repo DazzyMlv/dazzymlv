@@ -43,6 +43,17 @@ Bio:
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+### Paradigms
+![Imperative](https://img.shields.io/badge/Imperative-8B0000?style=for-the-badge)
+![Object-Oriented](https://img.shields.io/badge/Object--Oriented-000000?style=for-the-badge) 
+![Functional](https://img.shields.io/badge/Functional-00BFFF?style=for-the-badge) 
+![Procedural](https://img.shields.io/badge/Procedural-8B4513?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-008C45?style=for-the-badge) 
+![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge) 
+![Concurrent Programming](https://img.shields.io/badge/Concurrent_Programming-1E90FF?style=for-the-badge) 
+![REST](https://img.shields.io/badge/REST-009688?style=for-the-badge) 
+![Parallel Programming](https://img.shields.io/badge/Parallel_Programming-FFD700?style=for-the-badge)
+
 ### Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
