@@ -13,8 +13,10 @@ Bio:
     Location: "Bengaluru, Karnataka, India"
     
 ```
-I'm an accomplished Backend Developer known for my expertise in Python and Node.js. My journey in the tech world extends beyond conventional coding, positioning me as a versatile professional deeply immersed in various domains, shaping the ever-evolving landscape of technology.
 
+<details>
+  <summary>I'm an accomplished Backend Developer known for my expertise in Python and Node.js. My journey in the tech world extends beyond conventional coding, positioning me as a versatile professional deeply immersed in various domains, shaping the ever-evolving landscape of technology.</summary>
+  
 - **Backend Developer:** With a mastery of Python and Node.js, I excel in crafting robust and scalable server-side applications that power the digital world.
 - **CMS Developer:** Specializing in content management systems, I bring seamless content solutions to life, particularly experienced in Wagtail CMS and WordPress development.
 - **DevNet Enthusiast:** As a dedicated advocate of Developer Networks (DevNet), I constantly explore and implement innovative solutions, fostering collaboration and efficiency in development processes.
@@ -22,6 +24,11 @@ I'm an accomplished Backend Developer known for my expertise in Python and Node.
 - **Data Science Aficionado:** Fascinated by the world of Data Science, I specialize in Artificial Intelligence (AI) and Machine Learning (ML) to unlock actionable insights and drive data-driven decision-making.
 - **Cloud Computing Maven:** Adept at leveraging the power of cloud technologies, I architect and deploy scalable and reliable applications in cloud environments.
 - **Blockchain Enthusiast:** Passionate about the transformative potential of blockchain technology, I explore its applications across various domains, contributing to the decentralized future.
+
+
+</details>
+
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
