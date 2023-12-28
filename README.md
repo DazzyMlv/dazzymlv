@@ -1,11 +1,18 @@
-# Hi there, I'm MALVIN NDIP (DazzyMlv) 👋
+# Hi there, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 />! 👋
 
-<img src="https://github.com/DazzyMlv/dazzymlv/blob/feature/init/static/O4NR.gif?raw=true" width="100%">
+<img src="https://github.com/DazzyMlv/dazzymlv/blob/feature/init/static/O4NR-sc-1.gif?raw=true" width="100%">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💡About Me
-
+```yaml
+Bio:
+    Name: "MALVIN NDIP"
+    Role: "Backend Developer (Python, Node.Js)", "CMS Developer", "DevNet", "Cybersecurity (CyberOps, OffSec, NetSec)", "Data Science (AI, ML)", "Cloud Computing", "Blockchain"
+    Education: "Computer Science Engineering"
+    Location: "Bengaluru, Karnataka, India"
+    
+```
 I'm an accomplished Backend Developer known for my expertise in Python and Node.js. My journey in the tech world extends beyond conventional coding, positioning me as a versatile professional deeply immersed in various domains, shaping the ever-evolving landscape of technology.
 
 - **Backend Developer:** With a mastery of Python and Node.js, I excel in crafting robust and scalable server-side applications that power the digital world.
@@ -79,9 +86,9 @@ I'm an accomplished Backend Developer known for my expertise in Python and Node.
 
 
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
-![Dazzy Mlv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dazzymlv&show_icons=true&theme=radical)
+![Dazzy Mlv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dazzymlv&show_icons=true&theme=radical) -->
 
 ## 🌐 Connect with Me
 
@@ -91,7 +98,7 @@ Feel free to reach out and connect with me on social platforms or through email:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dazzymlv/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DazzyMlv)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dazzymlv)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dazzy.mlv@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23006212+DazzyMlv@users.noreply.github.com)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Let's collaborate and build the future of technology together!
