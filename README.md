@@ -1,6 +1,6 @@
 # Hi there, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 />! 👋
 
-<img src="https://github.com/DazzyMlv/dazzymlv/blob/feature/init/static/O4NR-sc-2.gif?raw=true" width="100%">
+<img src="https://t3.ftcdn.net/jpg/02/34/44/16/360_F_234441670_C9KlCIyfp2l8tLKHrr4CNjctGz252bg5.jpg" width="100%">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
