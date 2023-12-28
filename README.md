@@ -24,11 +24,7 @@ Bio:
 - **Data Science Aficionado:** Fascinated by the world of Data Science, I specialize in Artificial Intelligence (AI) and Machine Learning (ML) to unlock actionable insights and drive data-driven decision-making.
 - **Cloud Computing Maven:** Adept at leveraging the power of cloud technologies, I architect and deploy scalable and reliable applications in cloud environments.
 - **Blockchain Enthusiast:** Passionate about the transformative potential of blockchain technology, I explore its applications across various domains, contributing to the decentralized future.
-
-
 </details>
-
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -42,11 +38,6 @@ Bio:
 ![Mojo Lang](https://img.shields.io/badge/Mojo_Lang-000000?style=for-the-badge&logo=mojo&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Paradigms
-
-
-
 
 ### Paradigms
 ![Imperative](https://img.shields.io/badge/Imperative-8B0000?style=for-the-badge) 
