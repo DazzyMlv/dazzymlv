@@ -1,6 +1,6 @@
 # Hi there, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 />! 👋
 
-<img src="https://github.com/DazzyMlv/dazzymlv/blob/feature/init/static/O4NR-sc-1.gif?raw=true" width="100%">
+<img src="https://github.com/DazzyMlv/dazzymlv/blob/feature/init/static/O4NR-sc-2.gif?raw=true" width="100%">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -13,8 +13,10 @@ Bio:
     Location: "Bengaluru, Karnataka, India"
     
 ```
-I'm an accomplished Backend Developer known for my expertise in Python and Node.js. My journey in the tech world extends beyond conventional coding, positioning me as a versatile professional deeply immersed in various domains, shaping the ever-evolving landscape of technology.
 
+<details>
+  <summary>I'm an accomplished Backend Developer known for my expertise in Python and Node.js. My journey in the tech world extends beyond conventional coding, positioning me as a versatile professional deeply immersed in various domains, shaping the ever-evolving landscape of technology.</summary>
+  
 - **Backend Developer:** With a mastery of Python and Node.js, I excel in crafting robust and scalable server-side applications that power the digital world.
 - **CMS Developer:** Specializing in content management systems, I bring seamless content solutions to life, particularly experienced in Wagtail CMS and WordPress development.
 - **DevNet Enthusiast:** As a dedicated advocate of Developer Networks (DevNet), I constantly explore and implement innovative solutions, fostering collaboration and efficiency in development processes.
@@ -24,16 +26,29 @@ I'm an accomplished Backend Developer known for my expertise in Python and Node.
 - **Blockchain Enthusiast:** Passionate about the transformative potential of blockchain technology, I explore its applications across various domains, contributing to the decentralized future.
 
 
+</details>
+
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Mojo Lang](https://img.shields.io/badge/Mojo_Lang-000000?style=for-the-badge&logo=mojolicious&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Mojo Lang](https://img.shields.io/badge/Mojo_Lang-000000?style=for-the-badge&logo=mojo&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Libraries/APIs
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -99,6 +114,8 @@ Feel free to reach out and connect with me on social platforms or through email:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DazzyMlv)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dazzymlv)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23006212+DazzyMlv@users.noreply.github.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://about.me/dazzymlv)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Let's collaborate and build the future of technology together!
